@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con Node en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickGatica/primeroProyectoConNode.git"
+  },
+  "keywords": [
+    "hola-mundo",
+    "firstProyectWithNodeJS"
+  ],
+  "author": "RickGatica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickGatica/primeroProyectoConNode/issues"
+  },
+  "homepage": "https://github.com/RickGatica/primeroProyectoConNode.git"
+}
